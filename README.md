@@ -35,6 +35,13 @@ This project is part of the Cloud Resume Challenge, which aims to host a static 
 - **Action**: Used Amazon Route 53 to point a custom DNS domain name to the CloudFront distribution.
 - **Outcome**: The resume can now be accessed at `https://samuel-macharia-resume.tech/`.
 
+##### Dark Mode Version
+
+![dark mode](https://github.com/user-attachments/assets/3cd52933-8a91-41b6-8ca9-3c4a4241f535)
+
+##### Light Mode Version
+![light mode resume](https://github.com/user-attachments/assets/4202b054-c054-452c-b758-fbd71e0411de)
+
 ### Challenges Faced
 
 - Encountered issues with SSL/TLS certificate validation when configuring Amazon CloudFront. Resolved by carefully following Amazon Certificate Manager documentation to correctly associate the certificate with the CloudFront distribution.
