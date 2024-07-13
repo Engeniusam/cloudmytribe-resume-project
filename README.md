@@ -33,7 +33,7 @@ This project is part of the Cloud Resume Challenge, which aims to host a static 
 
 #### DNS Configuration
 - **Action**: Used Amazon Route 53 to point a custom DNS domain name to the CloudFront distribution.
-- **Outcome**: The resume can now be accessed at `https://engeniusam.com`.
+- **Outcome**: The resume can now be accessed at `https://samuel-macharia-resume.tech/`.
 
 ### Challenges Faced
 
