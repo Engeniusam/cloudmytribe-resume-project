@@ -45,6 +45,7 @@ This project is part of the Cloud Resume Challenge, which aims to host a static 
 ### Challenges Faced
 
 - Encountered issues with SSL/TLS certificate validation when configuring Amazon CloudFront. Resolved by carefully following Amazon Certificate Manager documentation to correctly associate the certificate with the CloudFront distribution.
+- Experienced challenges creating a new cloudfront resource in my AWS account. Resolved it by creating an EC2 instance and afterwards the AWS Support team which I had also sent a ticket to verify my account, verified it successfully
 
 ### Key Takeaways
 
