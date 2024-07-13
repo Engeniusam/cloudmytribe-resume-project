@@ -21,7 +21,7 @@ This project is part of the Cloud Resume Challenge, which aims to host a static 
 - **Components Included**: S3 bucket for static website hosting, CloudFront distribution for CDN, Route 53 for DNS management, and IAM roles/policies for access management.
 - **Outcome**: Created a comprehensive architecture diagram representing the infrastructure.
 
-![Architecture Diagram](path/to/your/architecture-diagram.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/ccd5a229-2865-4b37-8bb2-404f44c41e0b)
 
 #### Deploy Static Website
 - **Action**: Deployed the HTML resume as an Amazon S3 static website.
