@@ -55,7 +55,7 @@ This project is part of the Cloud Resume Challenge, which aims to host a static 
 ### Resources
 
 - AWS Documentation
-- Lucidchart for architecture diagrams
+- Draw.io for architecture diagrams
 - AWS tutorials on YouTube
 
 ## Outcome
