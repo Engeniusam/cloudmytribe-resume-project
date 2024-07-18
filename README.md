@@ -23,6 +23,9 @@ This project is part of the Cloud Resume Challenge, which aims to host a static 
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/ccd5a229-2865-4b37-8bb2-404f44c41e0b)
 
+![Capture](https://github.com/user-attachments/assets/80504e2b-8736-4b59-ba24-5841c117edd6)
+
+
 #### Deploy Static Website
 - **Action**: Deployed the HTML resume as an Amazon S3 static website.
 - **Outcome**: Successfully hosted the resume online with S3.
